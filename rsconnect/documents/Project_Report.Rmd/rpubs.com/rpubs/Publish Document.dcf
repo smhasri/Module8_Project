@@ -1,0 +1,7 @@
+name: Publish Document
+account: rpubs
+server: rpubs.com
+bundleId:
+        https://api.rpubs.com/api/v1/document/147871/424a0cc3a5904a06a836bec80fdbb263
+url: http://rpubs.com/smhasri/147871
+when: 1454038813.94481
